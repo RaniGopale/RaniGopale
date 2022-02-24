@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](http://127.0.0.1:5500/profile/Profile.html)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/17902510/rani-gopale)
 
-I'm a Full stack Web Developer intern at Edureka Institute where i've learned skills of front-end as well as back-end Website Development. I am developing the websites using front and backend technologies which includes NodeJS, HTML%, CSS3, Javascript,ReactJS,MongoDB.
+I'm a Full stack Web Developer intern at Edureka Institute where i've learned skills of front-end as well as back-end Website Development. I am developing the websites using front and backend technologies which includes NodeJS, HTML5, CSS3, Javascript,ReactJS,MongoDB.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/RaniGopale/count.svg)
